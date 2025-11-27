@@ -1,0 +1,15 @@
+# Transportation Safety Monitoring System
+
+## 📌 Overview
+A real-time monitoring system that analyzes transportation data to detect hazards using Python, data cleaning, and alert automation.
+
+## 🧰 Tech Stack
+- Python (Pandas)
+- CSV data processing
+- Automated alert system
+
+## ⚙️ Features
+- Detect overspeeding
+- Detect high engine temperatures
+- Generate safety alerts
+- Data cleaning & preprocessing
